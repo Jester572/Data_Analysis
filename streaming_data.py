@@ -135,6 +135,7 @@ def fav_genre_by_gender(data):
 # Shows which type of device is the most used to watch a session
 def watched_most_on_device(data):
     info = data["Device_Type"].value_counts(sort=True)
+    print(info)
     return info
 
 
