@@ -11,13 +11,16 @@ the favorite genre by country, and if there is a difference in genre watched bet
 # Data Analysis Results
 
 * 1: What device do people use to watch their shows
-    Answer: The most used devices are in the following order: Smart TV, Desktop, Smartphone.
+  
+  Answer: The most used devices are in the following order: Smart TV, Desktop, Smartphone.
 
 * 2: What genre is the most watched in the United States
-    Answer: The genre with the most sessions watched is Sci-Fi, but Action is watched for a longer period of time.
+
+  Answer: The genre with the most sessions watched is Sci-Fi, but Action is watched for a longer period of time.
 
 * 3: Is there a difference between men and women's favorite genre
-    Answer: Yes there is a difference. There is a clear difference in the number of sessions watched by male and female.
+
+  Answer: Yes there is a difference. There is a clear difference in the number of sessions watched by male and female.
     The two genres that have the most similar sessions watched is Action and Sci-Fi.
 
 # Development Environment
